@@ -1,0 +1,39 @@
+Name: Fatima Velic 
+ID: 180302098
+Date: January 8th, 2020.
+
+Project 2 - Drink2Drink - online tea and coffee shop
+
+Folder content
+------------------
+- read_first.txt
+- shopping.sql
+- shopping: folder
+- 1st progress - html+css+js :folder
+
+
+Hello sir, 
+
+This final version of my project is different from the first submission mostly because I found most of the php code on internet so I had to adjust and modify to fit it better.
+
+Code is curated mostly from Stack Overflow and through various sources from GitHub. It is done this way since I had little to no experience in styling with Bootstrap and doing backend development using PhP engine so I had to google and copy stuff. I am not trying to excuse myself from not practicing it more but I am trying to be transparent about my knowledge in this area. 
+
+
+Database Configuration
+----------------------
+
+Password you find inside the configuration files is set for my local server so you'd probably had to modify that. 
+
+Login details
+--------------------- 
+Administrator account: 
+To access administrative board, go http://localhost/shopping/admin
+Username: admin 
+Password: Admin1234
+
+User account:
+Name: Fatima
+email: fatime.velic@gmail.com
+Password: 12345678
+
+
